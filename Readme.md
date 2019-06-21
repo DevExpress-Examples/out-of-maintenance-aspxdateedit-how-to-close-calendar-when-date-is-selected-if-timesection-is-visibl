@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxDateEdit - How to close calendar when date is selected if TimeSection is visible
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4874/)**
+<!-- run online end -->
 
 
 <p>If the time section is enabled ASPxDateEdit does not close the calendar's popup when a user selects a date to allow him to select time. This example demonstrates how to change this behavior and close the calendar's popup immediately after selecting a date.</p>
